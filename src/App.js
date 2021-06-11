@@ -33,7 +33,7 @@ function App() {
       </header>
       <main class="portfolio">
         <div class="container">
-          <h2 class="section-title">Portfolio</h2>
+          <h2 class="section-title">Портфолио</h2>
           <h2>Коммерческие проекты</h2>
           <div id="portfolioInner" class="portfolio-inner">
             <a
@@ -271,7 +271,7 @@ function App() {
                 <img src={education} alt="postExpress" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Educational site</span>
+                <span>Образовательный сайт</span>
               </p>
             </div>
             <div class="card-item" data-work-id="605b843eeef00014b0ea18f2">
@@ -290,7 +290,7 @@ function App() {
                 <img src={navidu} alt="postExpress" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Taxi Mobile App</span>
+                <span>Мобильное приложение для грузоперевозчиков</span>
               </p>
             </div>
           </div>
@@ -317,7 +317,7 @@ function App() {
                 <img src={miniBlog} alt="onlineShop" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Mini Blog</span>
+                <span>Маленький блог</span>
               </p>
             </a>
 
@@ -340,11 +340,11 @@ function App() {
                 <img src={onlineShop} alt="onlineShop" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Online clothing shop</span>
+                <span>Интернет магазин одежды</span>
               </p>
             </a>
             <a
-              href="https://online-eshop.herokuapp.com/"
+              href="https://sardar-atabekov.github.io/AudioPlayer/AudioPlayer/index.html"
               target="_blank"
               rel="noreferrer"
               class="card-item"
@@ -359,7 +359,7 @@ function App() {
                 <img src={audioPlayer} alt="onlineShop" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Audio Player</span>
+                <span>Аудио плейер</span>
               </p>
             </a>
             <a
@@ -378,7 +378,7 @@ function App() {
                 <img src={toDo} alt="onlineShop" class="card-image" />
               </div>
               <p class="card-name">
-                <span>Test ToDo App</span>
+                <span>Тестовое задания, Список задач</span>
               </p>
             </a>
             <a
