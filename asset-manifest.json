@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9adeaaf1.chunk.css",
+    "main.js": "/static/js/main.c1547625.chunk.js",
+    "main.js.map": "/static/js/main.c1547625.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3f9741dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3f9741dd.js.map",
+    "static/js/2.8d439d58.chunk.js": "/static/js/2.8d439d58.chunk.js",
+    "static/js/2.8d439d58.chunk.js.map": "/static/js/2.8d439d58.chunk.js.map",
+    "static/js/3.c06e9de5.chunk.js": "/static/js/3.c06e9de5.chunk.js",
+    "static/js/3.c06e9de5.chunk.js.map": "/static/js/3.c06e9de5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9adeaaf1.chunk.css.map": "/static/css/main.9adeaaf1.chunk.css.map",
+    "static/js/2.8d439d58.chunk.js.LICENSE.txt": "/static/js/2.8d439d58.chunk.js.LICENSE.txt",
+    "static/media/aliDent.410288ff.png": "/static/media/aliDent.410288ff.png",
+    "static/media/audioPlayer.92bea0f6.png": "/static/media/audioPlayer.92bea0f6.png",
+    "static/media/crm-cafe.406bf3e2.jpg": "/static/media/crm-cafe.406bf3e2.jpg",
+    "static/media/document.972e366f.png": "/static/media/document.972e366f.png",
+    "static/media/education.f1a1b3e4.jpg": "/static/media/education.f1a1b3e4.jpg",
+    "static/media/kega.0d258f6d.png": "/static/media/kega.0d258f6d.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/miniBlog.49a55578.png": "/static/media/miniBlog.49a55578.png",
+    "static/media/navidu.359334f1.png": "/static/media/navidu.359334f1.png",
+    "static/media/neobis.4c61d299.png": "/static/media/neobis.4c61d299.png",
+    "static/media/neobis_hub.5855295a.png": "/static/media/neobis_hub.5855295a.png",
+    "static/media/online-shop.8e595002.jpg": "/static/media/online-shop.8e595002.jpg",
+    "static/media/postExpress.0893c91a.png": "/static/media/postExpress.0893c91a.png",
+    "static/media/sbBar.61660965.png": "/static/media/sbBar.61660965.png",
+    "static/media/to-do.ed70e8aa.png": "/static/media/to-do.ed70e8aa.png",
+    "static/media/yoga_landing.13c658e6.png": "/static/media/yoga_landing.13c658e6.png",
+    "static/media/zigmund.86b6744c.jpg": "/static/media/zigmund.86b6744c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f9741dd.js",
+    "static/js/2.8d439d58.chunk.js",
+    "static/css/main.9adeaaf1.chunk.css",
+    "static/js/main.c1547625.chunk.js"
+  ]
+}
