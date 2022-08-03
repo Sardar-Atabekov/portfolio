@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9adeaaf1.chunk.css",
-    "main.js": "/portfolio/static/js/main.4de7adc3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4de7adc3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.44748b80.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.44748b80.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6d62f4be.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6d62f4be.js.map",
     "static/js/2.8d439d58.chunk.js": "/portfolio/static/js/2.8d439d58.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.9adeaaf1.chunk.css.map": "/portfolio/static/css/main.9adeaaf1.chunk.css.map",
     "static/js/2.8d439d58.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8d439d58.chunk.js.LICENSE.txt",
+    "static/media/NeoCafe.4e48f5bd.png": "/portfolio/static/media/NeoCafe.4e48f5bd.png",
     "static/media/aliDent.410288ff.png": "/portfolio/static/media/aliDent.410288ff.png",
     "static/media/audioPlayer.92bea0f6.png": "/portfolio/static/media/audioPlayer.92bea0f6.png",
     "static/media/crm-cafe.406bf3e2.jpg": "/portfolio/static/media/crm-cafe.406bf3e2.jpg",
@@ -34,6 +35,6 @@
     "static/js/runtime-main.6d62f4be.js",
     "static/js/2.8d439d58.chunk.js",
     "static/css/main.9adeaaf1.chunk.css",
-    "static/js/main.4de7adc3.chunk.js"
+    "static/js/main.44748b80.chunk.js"
   ]
 }
