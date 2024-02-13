@@ -23,9 +23,9 @@ function App() {
       <main class="portfolio">
         <div class="container">
           <h2 class="section-title">Портфолио</h2>
-          <h2>Коммерческие проекты</h2>
+          {/* <h2>Коммерческие проекты</h2> */}
           <div id="portfolioInner" class="portfolio-inner">
-            <a
+            <div
               href="https://match.zigmund.online/"
               target="_blank"
               rel="noreferrer"
@@ -52,8 +52,8 @@ function App() {
               <p class="card-name">
                 <span>Подбор психолога</span>
               </p>
-            </a>
-            <a
+            </div>
+            <div
               href="https://neobis.kg/"
               target="_blank"
               rel="noreferrer"
@@ -80,8 +80,8 @@ function App() {
               <p class="card-name">
                 <span>Корпоративный сайт</span>
               </p>
-            </a>
-            <a
+            </div>
+            <div
               href="https://sbbar.kg/"
               target="_blank"
               rel="noreferrer"
@@ -102,9 +102,9 @@ function App() {
               <p class="card-name">
                 <span>Доставка еды (+Админ панель)</span>
               </p>
-            </a>
+            </div>
 
-            <a
+            <div
               href="https://postexpress.org/"
               target="_blank"
               rel="noreferrer"
@@ -127,14 +127,10 @@ function App() {
                   Логистика грузов
                 </span>
               </p>
-            </a>
+            </div>
 
-          </div>
-        </div>
-        <div class="container">
-          <h2>Отмененные коммерческие проекты</h2>
-          <div id="portfolioInner" class="portfolio-inner">
-            <a
+         
+            <div
               href="http://hub.neobis.kg/"
               target="_blank"
               rel="noreferrer"
@@ -161,12 +157,8 @@ function App() {
                   Superpasswordhub2)
                 </span>
               </p>
-            </a>
-          </div>
-        </div>
-        <div class="container">
-          <h2>Проекты для внутреннего пользования компании</h2>
-          <div id="portfolioInner" class="portfolio-inner">
+            </div>
+         
             <div class="card-item" data-work-id="605b843eeef00014b0ea18f2">
               <div class="categories-wrapper">
                 <span class="tech-name css" data-teck-name="html">
@@ -246,11 +238,7 @@ function App() {
                 <span>CRM система для медицинских центров</span>
               </p>
             </div>
-          </div>
-        </div>
-        <div class="container">
-          <h2>Недоступные или закрытые проекты</h2>
-          <div id="portfolioInner" class="portfolio-inner">
+        
             <div class="card-item" data-work-id="605b843eeef00014b0ea18f2">
               <div class="categories-wrapper">
                 <span class="tech-name css" data-teck-name="html">
@@ -290,12 +278,8 @@ function App() {
               </p>
             </div>
 
-          </div>
-        </div>
-        <div class="container">
-          <h2>Тестовые задании и учебные проекты</h2>
-          <div id="portfolioInner" class="portfolio-inner">
-            <a
+         
+            <div
               href="https://boiling-dusk-38246.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
@@ -316,9 +300,9 @@ function App() {
               <p class="card-name">
                 <span>CRM система для управление кофейней</span>
               </p>
-            </a>
+            </div>
 
-            <a
+            <div
               href="https://miniblogsite.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
@@ -336,9 +320,9 @@ function App() {
               <p class="card-name">
                 <span>Маленький блог</span>
               </p>
-            </a>
+            </div>
 
-            <a
+            <div
               href="https://online-eshop.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
@@ -359,8 +343,8 @@ function App() {
               <p class="card-name">
                 <span>Интернет магазин одежды</span>
               </p>
-            </a>
-            <a
+            </div>
+            <div
               href="https://sardar-atabekov.github.io/AudioPlayer/AudioPlayer/index.html"
               target="_blank"
               rel="noreferrer"
@@ -378,8 +362,8 @@ function App() {
               <p class="card-name">
                 <span>Аудио плейер</span>
               </p>
-            </a>
-            <a
+            </div>
+            <div
               href="https://Sardar-Atabekov.github.io/to-do/"
               target="_blank"
               rel="noreferrer"
@@ -397,8 +381,8 @@ function App() {
               <p class="card-name">
                 <span>Тестовое задания, Список задач</span>
               </p>
-            </a>
-            <a
+            </div>
+            <div
               href="https://sardar-atabekov.github.io/yoga-landing/yoga/index.html"
               target="_blank"
               rel="noreferrer"
@@ -423,7 +407,7 @@ function App() {
               <p class="card-name">
                 <span>Yoga Landing</span>
               </p>
-            </a>
+            </div>
           </div>
         </div>
       </main>

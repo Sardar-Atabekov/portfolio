@@ -381,7 +381,7 @@ input {
 }
 
 .card-item {
-  margin: 15px;
+  margin: 25px 15px;
   width: 30%;
   max-width: 360px;
   position: relative;
